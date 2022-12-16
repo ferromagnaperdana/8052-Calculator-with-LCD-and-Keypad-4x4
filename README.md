@@ -6,3 +6,4 @@ Keypad 4x4 is used for input device via PORT1 (Column) and PORT3 (Row).
 LCD 16x2 is used for output device and connected to 8052 via PORT2 for data pins and PORT0 for command pins.
 This minimum system circuit can also be used for general purpose via breakout port pins, 6-pin SPI programming port, and 10-pin USBASP programming port.
 There is also 5V power rail and GND from 7805 LDO regulator that can supply up to 1A of current (from the datasheet).
+This project can be accessed from EasyEDA via this link https://oshwlab.com/ferro_mp/tubes-sismik
